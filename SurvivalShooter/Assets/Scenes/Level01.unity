@@ -1820,7 +1820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 639830619}
-  enemy: {fileID: 0}
+  enemy: {fileID: 100004, guid: 4594f3375ebe641ea99602605adbc958, type: 2}
   spawnTime: 3
   spawnPoints:
   - {fileID: 1465102214}
